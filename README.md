@@ -1,1 +1,3 @@
 # Prolog
+
+Ejercicios-de-prolog. El presente informe tiene como objetivo resolver una serie de ejercicios básicos de lógica de programación utilizando el lenguaje Prolog, en el marco de la asignatura de Ciencia de Datos e Inteligencia Artificial. A través de estos ejercicios se busca comprender y aplicar conceptos fundamentales como átomos, variables, términos complejos, hechos, reglas, cláusulas y predicados, así como la forma en que Prolog responde a distintas consultas lógicas. Se trabajó también en la traducción de oraciones del lenguaje natural a código Prolog, fortaleciendo la capacidad de modelar conocimiento y razonamiento lógico mediante este lenguaje declarativo.
